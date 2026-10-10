@@ -161,6 +161,8 @@ npx serve frontend
 
 Buka URL lokal yang ditampilkan server. Anda juga dapat memakai ekstensi server statis di VS Code. Membuka HTML melalui `file://` tidak disarankan karena perilaku permintaan browser dapat berbeda.
 
+Untuk GitHub Pages, pilih branch `main` dan folder `/ (root)` pada pengaturan **Settings > Pages**. `index.html` di root akan mengarahkan pengunjung ke halaman frontend di `frontend/html/`. Konfigurasikan URL dan publishable key Supabase di `frontend/js/script.js` terlebih dahulu.
+
 ## Backend Express Opsional
 
 Backend hanya diperlukan jika aplikasi akan diarahkan untuk menggunakan endpoint Express. Siapkan Node.js, instal dependensi dari root proyek, lalu atur variabel lingkungan Supabase:
@@ -216,6 +218,7 @@ Buku Besar menampilkan mutasi pada bulan terpilih. Neraca Saldo menghitung saldo
 ## Struktur Proyek
 
 ```text
+index.html
 backend/
 ├── app.js
 └── sql/
