@@ -9,7 +9,7 @@ Inventaris, penyusutan, dan pelaporan aset Febrina's Catering.
 ![Database](https://img.shields.io/badge/Database-Supabase%20%7C%20PostgreSQL-3FCF8E?style=flat-square)
 ![Bahasa](https://img.shields.io/badge/Bahasa-Indonesia-2D6A4F?style=flat-square)
 
-[![Open Website](https://img.shields.io/badge/Open-Website-2D6A4F?style=for-the-badge)](https://febrinaptri.github.io/sistem-pencatatan-aset-febrina-catering-akuntansi-feb-undip/)
+Website: [FEBRINA-ASSET](https://febrinaptri.github.io/sistem-pencatatan-aset-febrina-catering-akuntansi-feb-undip/)
 
 </div>
 
